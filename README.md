@@ -69,4 +69,4 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Face Detection Screenshot
-![Face Detection Example](face_detection_result.jpg)
+![image](https://github.com/user-attachments/assets/d260b8e8-b186-427d-9d36-7a28d29f1ec5)
