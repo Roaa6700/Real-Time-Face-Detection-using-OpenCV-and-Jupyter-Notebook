@@ -69,4 +69,4 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Face Detection Screenshot
-![image](https://github.com/user-attachments/assets/d260b8e8-b186-427d-9d36-7a28d29f1ec5)
+![image]([https://github.com/user-attachments/assets/d260b8e8-b186-427d-9d36-7a28d29f1ec5](https://github.com/Roaa6700/Real-Time-Face-Detection-using-OpenCV-and-Jupyter-Notebook/blob/main/Screenshot%202025-07-27%20174030.png))
